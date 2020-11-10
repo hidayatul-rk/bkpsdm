@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+<button onclick="klik()">Klik Saya</button>
+<h1 name="judil1" id="judil1" >BKPSDM Kab. Karawang</h1>
+<p name="paragraf" id="testID">isi text paragraf</p>
+
+<!-- internal JS -->
+<script type="text/javascript">
+	
+	function klik(){
+		// console.log(document.getElementsByTagName("p"))
+		var a = document.getElementsByTagName("p")[0];
+		// console.log(a);
+		
+		// var x = a.attributes.item(1).name;
+		var x2 = a.attributes.getNamedItem("id").value;
+		// console.log(x)
+		console.log(x2)
+	}
+
+</script>
+
+</body>
+</html>

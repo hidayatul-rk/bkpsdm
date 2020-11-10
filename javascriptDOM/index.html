@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Belajar DOM</title>
+</head>
+<body>
+
+	<input id="namapertama" class="forminput" type="text">
+	<input id="namabelakang" class="forminput" type="text">
+
+<button type="button" onclick="panggilEksternal()">Jalannkan</button>
+<!-- link eksternal -->
+<script type="text/javascript" src="index.js"></script>
+
+Link Internal
+<script type="text/javascript">
+	function panggilInternal(){
+	console.log("Pesan dari Internal")	
+}
+panggilInternal()
+</script>
+
+</body>
+</html>

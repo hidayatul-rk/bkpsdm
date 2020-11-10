@@ -1,0 +1,29 @@
+*{
+	background: green;
+	color: white;
+}
+body{
+	font-size: 12px
+
+}
+
+.p_pertama{
+	text-align: justify;
+
+}
+
+.p_dua{
+	text-decoration: underline;
+}
+
+.p_ketiga, .p_empat{
+	text-align: center;
+
+}
+
+.p_lima{
+	text-decoration: line-through;
+}
+h1{
+	text-transform: capitalize;
+}

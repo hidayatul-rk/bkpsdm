@@ -1,0 +1,11 @@
+.cell-container {
+    display: flex;
+}
+
+.admin-content-child {
+    min-height: 400px;
+}
+
+.tab-list {
+    min-height: 400px;
+}

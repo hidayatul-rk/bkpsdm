@@ -1,0 +1,25 @@
+{
+  "pustakagambar": [
+    {
+      "nama": "makanan enak ke 1",
+      "linkgambar": "https://i.pinimg.com/474x/c7/98/ab/c798ab31bb3e0b4fab7e4e9e08da94a8.jpg",
+      "ket": "keterangan enak ke 1",
+      "id": 1
+    },
+    {
+      "nama": "Telur 2 ",
+      "linkgambar": "https://i.pinimg.com/236x/ad/f0/c0/adf0c08108cc311fb0bb8770abaf6cb4.jpg",
+      "ket": "Lezat banget",
+      "id": 2
+    },
+    {
+      "nama": "Lezat 4",
+      "linkgambar": "https://i.pinimg.com/236x/f7/1d/0c/f71d0cdf43b48f66cc5c87741b6aee28.jpg",
+      "ket": "mantap bangett",
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ]
+}

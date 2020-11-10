@@ -1,0 +1,26 @@
+
+.Typewriter {
+    min-height: 220px;
+}
+
+.home-content-title {
+    color: white;
+    font-family: "Myriad Pro Regular", sans-serif;
+}
+
+.home-content-subtitle {
+    color: white;
+    font-family: "Myriad Pro Regular", sans-serif;
+}
+
+.home-content-cursor {
+    display: none;
+}
+
+@media only screen and (min-height: 590px) {
+    .home-footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+}
